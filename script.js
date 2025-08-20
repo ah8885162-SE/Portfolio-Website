@@ -12,7 +12,6 @@ const textArray = [
   "Transport Management Expert",
   "Event Organizer"
 ];
-
 const paraArray = [
   "Passionate about building modern web and mobile applications.",
   "Dedicated to learning new technologies every day.",
